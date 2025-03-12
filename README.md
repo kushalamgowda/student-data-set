@@ -1,4 +1,4 @@
-# student-data-set
+.# student-data-set
 🎓 Student Grade Management System 📊
 
 A simple Student Grade Management System built using Python. This program allows users to add, update, delete, and display student records, making it easy to manage student grades efficiently.
@@ -16,7 +16,7 @@ Python (Standard Libraries)
 🛠️ Installation & Usage
 Clone the repository
 git clone https://github.com/kushalamgowda/student-data-set.git
-cd student-grade-manager
+cd student-data-set
 
 Run the script
 python student_grade_manager.py
