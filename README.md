@@ -15,7 +15,7 @@ Python (Standard Libraries)
 
 🛠️ Installation & Usage
 Clone the repository
-git clone https://github.com/your-username/student-grade-manager.git
+git clone https://github.com/kushalamgowda/student-grade-manager.git
 cd student-grade-manager
 
 Run the script
